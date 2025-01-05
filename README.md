@@ -52,3 +52,15 @@ Controls
 - Arrow Keys: Move Pacman in the desired direction.
 - P: Pause the game.
 - Q: Quit the game.
+
+---
+
+
+## Contributing
+Contributions are welcome! Feel free to submit issues or pull requests to enhance the game.
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch-name).
+Make your changes and commit (git commit -m "Add some feature").
+Push to the branch (git push origin feature-branch-name).
+Create a pull request.
