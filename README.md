@@ -3,3 +3,5 @@
 
 ## Introduction
 A classic Pacman game implemented in Python using the pygame library. This project recreates the retro gaming experience with customizable features, exciting gameplay, and smooth controls.
+
+---
