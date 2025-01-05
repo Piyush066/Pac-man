@@ -48,3 +48,7 @@ To start the game, run the following command:
 python pacman.py
 
 ```
+Controls
+- Arrow Keys: Move Pacman in the desired direction.
+- P: Pause the game.
+- Q: Quit the game.
