@@ -7,12 +7,12 @@ A classic Pacman game implemented in Python using the pygame library. This proje
 ---
 
 ## Features
-Features
--Classic Gameplay: Navigate Pacman through a maze while avoiding ghosts and collecting all dots.
--Power-Ups: Collect power pellets to temporarily turn the ghosts vulnerable.
--High Scores: Tracks and displays high scores for replayability.
--Dynamic Difficulty: Adjustable levels of difficulty for an enhanced gaming experience.
--Customizable: Easily modify the maze, character sprites, and game settings.
+
+- Classic Gameplay: Navigate Pacman through a maze while avoiding ghosts and collecting all dots.
+- Power-Ups: Collect power pellets to temporarily turn the ghosts vulnerable.
+- High Scores: Tracks and displays high scores for replayability.
+- Dynamic Difficulty: Adjustable levels of difficulty for an enhanced gaming experience.
+- Customizable: Easily modify the maze, character sprites, and game settings.
 
 
 ```bash
