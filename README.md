@@ -14,6 +14,17 @@ A classic Pacman game implemented in Python using the pygame library. This proje
 - Dynamic Difficulty: Adjustable levels of difficulty for an enhanced gaming experience.
 - Customizable: Easily modify the maze, character sprites, and game settings.
 
+---
+
+## Installation
+
+Prerequisites
+Ensure you have the following installed:
+
+- Python 3.x (Python 3.6 or above recommended)
+- pip for managing Python packages
+
+Steps to Install
 
 ```bash
 # Clone the repository
