@@ -5,3 +5,16 @@
 A classic Pacman game implemented in Python using the pygame library. This project recreates the retro gaming experience with customizable features, exciting gameplay, and smooth controls.
 
 ---
+
+
+```bash
+# Clone the repository
+git clone https://github.com/tarunkumar910/pacman-game.git
+
+# Navigate to the project directory
+cd pacman-game
+
+# Install required packages
+pip install -r requirements.txt
+
+```
